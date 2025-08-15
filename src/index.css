@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* optional globals */
+:root { font-family: Inter, ui-sans-serif, system-ui, "Segoe UI", Arial; }
+html, body, #root { height: 100%; }
+body { margin: 0; background: #fff; color: #0f172a; }
